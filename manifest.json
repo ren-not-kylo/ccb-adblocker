@@ -1,0 +1,13 @@
+{
+    "name": "ccb AdBlocker",
+    "version": "1.3",
+    "manifest_version": 3,
+    "description": "Youtube ad blocker by ccb",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/circle-xmark-solid.svg"
+    }
+}
