@@ -1,5 +1,6 @@
 const defaultFilters = [ 
     // anytime an ad pops up, add its URL here to include it in the list of blocked advertising servers
+    //test comment
     "*://*.zedo.com/*",
     "*://*.doubleclick.net/*",
     "*://*.partner.googleadservices.com/*",
